@@ -15,3 +15,14 @@ Tagok:
 - Bartók-Balogh Gábor
 
 - Hegedüs Gábor
+
+Határidők:
+
+- [ ] Vízió dokumentum – október 13.
+
+- [ ] Specifikációs dokumentum, szótár – október 27.
+
+- [ ] Analízis modell, rendszertervezés – november 10.
+
+- [ ] Tesztelési terv – december 1.
+
